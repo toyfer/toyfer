@@ -105,7 +105,7 @@
 | Followers | 1 |
 | Following | 3 |
 | Since | 2015 |
-| Top languages | JavaScript×13, HTML×7, Python×5, Go×3, Shell×3, CSS×2 |
+| Top languages | JavaScript×13, HTML×7, Other×6, Python×5, Go×3, Shell×3 |
 | Updated | 2026-11-11 |
 
 <!-- SUMMARY:END -->
