@@ -100,13 +100,13 @@
 
 | | |
 |---|---|
-| Public repos | 60 |
-| Own repos | 53 |
+| Public repos | 61 |
+| Own repos | 54 |
 | Followers | 2 |
 | Following | 3 |
 | Since | 2015 |
-| Top languages | JavaScript×14, HTML×7, Other×6, Python×5, Shell×3, Go×3 |
-| Updated | 2026-11-15 |
+| Top languages | JavaScript×14, HTML×8, Other×6, Python×5, Shell×3, Go×3 |
+| Updated | 2026-11-16 |
 
 <!-- SUMMARY:END -->
 
