@@ -102,11 +102,11 @@
 |---|---|
 | Public repos | 61 |
 | Own repos | 54 |
-| Followers | 3 |
+| Followers | 2 |
 | Following | 3 |
 | Since | 2015 |
 | Top languages | JavaScript×15, HTML×7, Other×6, Python×5, Shell×3, Go×3 |
-| Updated | 2026-11-24 |
+| Updated | 2026-11-25 |
 
 <!-- SUMMARY:END -->
 
